@@ -304,6 +304,13 @@ button {
   }
 }
 
+.anchor {
+  font-weight: regular;
+  font: 15px/1.5;
+  color: black;
+  text-decoration: underline;
+}
+
 @keyframes loadcontent {
   0% {
     transform: translateY(-100px);
