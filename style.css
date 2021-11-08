@@ -78,7 +78,7 @@ header a:hover {
   box-shadow: inset 0 0 0 2000px rgba(5, 5, 5, 0.561);
 }
 
-#showcase h2 {
+#showcase .container h2{
   margin-top: 180px;
   font-size: 45px;
   color: #ffa10f;
