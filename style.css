@@ -244,12 +244,11 @@ button {
   margin-left: 10px;
 }
 
-#main-footer #social1:hover, 
-#main-footer #social2:hover,
-#main-footer #social3:hover{
+#main-footer .socials i{
   cursor: pointer;
   color: #ffa10f;
-}
+},
+
 
 #htmlicon {
   color: rgb(255, 142, 97);
