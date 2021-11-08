@@ -258,6 +258,13 @@ button {
   color: rgb(238, 225, 37);
 }
 
+.anchor {
+  font-weight: regular;
+  font: 15px/1.5;
+  color: black;
+  text-decoration: underline;
+}
+
 @media (max-width: 360px) {
   header .container #brend h1,
   header .container #brend .highlight {
@@ -302,13 +309,6 @@ button {
     position: absolute;
     margin-top: 60px;
   }
-}
-
-.anchor {
-  font-weight: regular;
-  font: 15px/1.5;
-  color: black;
-  text-decoration: underline;
 }
 
 @keyframes loadcontent {
