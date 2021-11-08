@@ -125,7 +125,9 @@ header a:hover {
   text-align: center;
 }
 
-.opis2 #inp {
+.opis2 #inp,
+#inp2,
+#inp3 {
   width: 40%;
   padding: 15px;
   border: none;
