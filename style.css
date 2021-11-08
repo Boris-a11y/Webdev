@@ -244,7 +244,7 @@ button {
   margin-left: 10px;
 }
 
-#main-footer #social1:hover {
+#main-footer #social1, #social2, #social3:hover {
   cursor: pointer;
   color: #ffa10f;
 }
